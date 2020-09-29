@@ -7,7 +7,7 @@
 //
 
 #import "MainViewController.h"
-#import "FMDBViewController.h"
+
 @interface MainViewController ()<UITableViewDelegate,UITableViewDataSource>
 
 @property (nonatomic,strong) UITableView *mTableView;
